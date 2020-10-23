@@ -230,7 +230,7 @@
 228,A Simple Favor,Thriller/Suspense,53548586,9,2018
 229,Gisaengchung,Black Comedy,53369745,10,2019
 230,Life of the Party,Comedy,53059911,5,2018
-231,13 Hours: The Secret Soldiers of Beng…,Drama,52853219,1,2016
+231,13 Hours: The Secret Soldiers of Beng…,Thriller/Suspense,52853219,1,2016
 232,Lion,Drama,51739495,11,2016
 233,Atomic Blonde,Thriller/Suspense,51573925,7,2017
 234,American Made,Thriller/Suspense,51342000,9,2017
@@ -393,8 +393,8 @@
 391,Kevin Hart: What Now?,Concert/Performance,23591043,10,2016
 392,Whiskey Tango Foxtrot,Comedy,23083334,3,2016
 393,Fighting With My Family,Comedy,22958583,2,2019
-394,Wonât You Be My Neighbor?,Documentary,22835787,6,2018
-395,The New Mutants,Horror,22805368,8,2020
+394,The New Mutants,Horror,22836891,8,2020
+395,Wonât You Be My Neighbor?,Documentary,22835787,6,2018
 396,A Dogâs Journey,Drama,22782371,5,2019
 397,Booksmart,Comedy,22680962,5,2019
 398,The Bye Bye Man,Thriller/Suspense,22395806,1,2017
@@ -428,7 +428,7 @@
 426,The Circle,Thriller/Suspense,20497844,4,2017
 427,The Peanut Butter Falcon,Adventure,20457158,8,2019
 428,UglyDolls,Adventure,20150241,5,2019
-429,Unhinged,Thriller/Suspense,20110897,8,2020
+429,Unhinged,Thriller/Suspense,20144132,8,2020
 430,Middle School: The Worst Years of My …,Adventure,20007149,10,2016
 431,Nine Lives,Adventure,19700032,8,2016
 432,Race,Drama,19115191,2,2016
@@ -569,10 +569,10 @@
 567,Tenki no Ko,Drama,7798703,1,2020
 568,Anna,Action,7743794,6,2019
 569,Loving,Drama,7710234,11,2016
-570,Penguins,Documentary,7699452,4,2019
-571,Unsane,Thriller/Suspense,7690044,3,2018
-572,Beautiful Boy,Drama,7634767,10,2018
-573,The War with Grandpa,Comedy,7578560,10,2020
+570,The War with Grandpa,Comedy,7706466,10,2020
+571,Penguins,Documentary,7699452,4,2019
+572,Unsane,Thriller/Suspense,7690044,3,2018
+573,Beautiful Boy,Drama,7634767,10,2018
 574,Pandas,Documentary,7574012,4,2018
 575,Mid90s,Drama,7362439,10,2018
 576,Let There Be Light,Drama,7233471,10,2017
@@ -637,42 +637,42 @@
 635,Kimi no na wa,Drama,5000181,4,2017
 636,Gringo,Black Comedy,4969853,3,2018
 637,The Sun is Also a Star,Drama,4950029,5,2019
-638,Bring the Soul: The Movie,Documentary,4809800,8,2019
-639,Incarnate,Horror,4799774,12,2016
-640,Absolutely Fabulous: The Movie,Comedy,4772155,7,2016
-641,The SpongeBob Movie: Sponge on the Run,Adventure,4723368,8,2020
-642,Samson,Drama,4719928,2,2018
-643,Hands of Stone,Drama,4712792,8,2016
-644,Pavarotti,Documentary,4686402,6,2019
-645,Jay and Silent Bob Reboot,Comedy,4589490,10,2019
-646,Zimna wojna,Drama,4580048,12,2018
-647,Dolor y gloria,Drama,4567338,10,2019
-648,Tolkien,Drama,4535154,5,2019
-649,The Last Black Man in San Francisco,Drama,4515719,6,2019
-650,Amazing Grace,Documentary,4450454,4,2019
-651,Donât Think Twice,Comedy,4417983,7,2016
-652,Johnny English Strikes Again,Comedy,4412170,10,2018
-653,Brian Banks,Drama,4376820,8,2019
-654,The Biggest Little Farm,Documentary,4367816,5,2019
-655,Blindspotting,Drama,4333394,7,2018
-656,The Book of Henry,Drama,4288104,6,2017
-657,Gotti,Drama,4286367,6,2018
-658,The Meddler,Comedy,4267219,4,2016
-659,Ae Dil Hai Mushkil,Drama,4264983,10,2016
-660,Linda Ronstadt: The Sound of My Voice,Documentary,4252657,9,2019
-661,Gully Boy,Adventure,4216437,2,2019
-662,A Hologram for the King,Drama,4212494,4,2016
-663,Stronger,Drama,4211129,9,2017
-664,Swiss Army Man,Drama,4210454,6,2016
-665,Honest Thief,Thriller/Suspense,4200000,10,2020
+638,Honest Thief,Thriller/Suspense,4913654,10,2020
+639,Bring the Soul: The Movie,Documentary,4809800,8,2019
+640,Incarnate,Horror,4799774,12,2016
+641,Absolutely Fabulous: The Movie,Comedy,4772155,7,2016
+642,The SpongeBob Movie: Sponge on the Run,Adventure,4726773,8,2020
+643,Samson,Drama,4719928,2,2018
+644,Hands of Stone,Drama,4712792,8,2016
+645,Pavarotti,Documentary,4686402,6,2019
+646,Jay and Silent Bob Reboot,Comedy,4589490,10,2019
+647,Zimna wojna,Drama,4580048,12,2018
+648,Dolor y gloria,Drama,4567338,10,2019
+649,Tolkien,Drama,4535154,5,2019
+650,The Last Black Man in San Francisco,Drama,4515719,6,2019
+651,Amazing Grace,Documentary,4450454,4,2019
+652,Donât Think Twice,Comedy,4417983,7,2016
+653,Johnny English Strikes Again,Comedy,4412170,10,2018
+654,Brian Banks,Drama,4376820,8,2019
+655,The Biggest Little Farm,Documentary,4367816,5,2019
+656,Blindspotting,Drama,4333394,7,2018
+657,The Book of Henry,Drama,4288104,6,2017
+658,Gotti,Drama,4286367,6,2018
+659,The Meddler,Comedy,4267219,4,2016
+660,Ae Dil Hai Mushkil,Drama,4264983,10,2016
+661,Linda Ronstadt: The Sound of My Voice,Documentary,4252657,9,2019
+662,Gully Boy,Adventure,4216437,2,2019
+663,A Hologram for the King,Drama,4212494,4,2016
+664,Stronger,Drama,4211129,9,2017
+665,Swiss Army Man,Drama,4210454,6,2016
 666,Uri: The Surgical Strike,Action,4185663,1,2019
 667,Ya Veremos,Drama,4165949,8,2018
 668,Life Itself,Drama,4095431,9,2018
 669,The Hero,Drama,4077333,6,2017
 670,Denial,Drama,4073448,9,2016
 671,Replicas,Thriller/Suspense,4046429,1,2019
-672,The Broken Hearts Gallery,Romantic Comedy,4013484,9,2020
-673,Infidel,Thriller/Suspense,3984923,9,2020
+672,The Broken Hearts Gallery,Romantic Comedy,4015686,9,2020
+673,Infidel,Thriller/Suspense,3990780,9,2020
 674,Yip Man 4,Action,3956031,12,2019
 675,Sleight,Action,3930990,4,2017
 676,Morgan,Thriller/Suspense,3915251,9,2016
@@ -706,7 +706,7 @@
 704,En man som heter Ove,Comedy,3479315,9,2016
 705,First Reformed,Thriller/Suspense,3448256,5,2018
 706,"Juliet, Naked",Romantic Comedy,3444895,8,2018
-707,Bill & Ted Face the Music,Comedy,3436878,8,2020
+707,Bill & Ted Face the Music,Comedy,3438360,8,2020
 708,Bad Samaritan,Thriller/Suspense,3424744,5,2018
 709,Til Death Do Us Part,Thriller/Suspense,3424454,9,2017
 710,Indignation,Drama,3401155,7,2016
@@ -817,7 +817,7 @@
 815,Along With The Gods: The Two Worlds,Action,1908822,12,2017
 816,Shin Godjira,Action,1908028,10,2016
 817,Fang Hua,Drama,1891956,12,2017
-818,The Personal History of David Copperf…,Drama,1875060,8,2020
+818,The Personal History of David Copperf…,Drama,1875650,8,2020
 819,A Quiet Passion,Drama,1865396,4,2017
 820,Badla,Thriller/Suspense,1861000,3,2019
 821,The White Crow,Drama,1827604,4,2019
@@ -1042,17 +1042,17 @@
 1040,The Grizzlies,Drama,650565,4,2019
 1041,El JeremÃ­as,Comedy,647701,10,2016
 1042,Lizzie,Drama,642157,9,2018
-1043,The Last Shift,Comedy,632373,9,2020
-1044,"Love, Gilda",Documentary,626318,9,2018
-1045,The Only Living Boy in New York,Drama,624332,8,2017
-1046,Nancy Drew and the Hidden Staircase,Drama,623088,3,2019
-1047,Itzhak,Documentary,618626,3,2018
-1048,Foxtrot,Drama,617972,3,2018
-1049,The Bronze,Black Comedy,615816,3,2016
-1050,Miles Davis: Birth of the Cool,Documentary,614201,8,2019
-1051,Tickled,Documentary,613956,6,2016
-1052,City of Gold,Documentary,608799,3,2016
-1053,2 Hearts,Drama,606756,10,2020
+1043,2 Hearts,Drama,638201,10,2020
+1044,The Last Shift,Comedy,633667,9,2020
+1045,"Love, Gilda",Documentary,626318,9,2018
+1046,The Only Living Boy in New York,Drama,624332,8,2017
+1047,Nancy Drew and the Hidden Staircase,Drama,623088,3,2019
+1048,Itzhak,Documentary,618626,3,2018
+1049,Foxtrot,Drama,617972,3,2018
+1050,The Bronze,Black Comedy,615816,3,2016
+1051,Miles Davis: Birth of the Cool,Documentary,614201,8,2019
+1052,Tickled,Documentary,613956,6,2016
+1053,City of Gold,Documentary,608799,3,2016
 1054,Chhapaak,Drama,604334,1,2020
 1055,Sage femme,Thriller/Suspense,603582,7,2017
 1056,The Chaperone,Drama,600654,3,2019
@@ -1089,8 +1089,8 @@
 1087,Followed,Horror,538179,6,2020
 1088,Dabangg 3,Action,535000,12,2019
 1089,Grateful Dead Meet-Up at the Movies 2019,Documentary,534611,8,2019
-1090,Fitoor,Drama,528799,2,2016
-1091,Kajillionaire,Drama,528025,9,2020
+1090,Kajillionaire,Drama,529990,9,2020
+1091,Fitoor,Drama,528799,2,2016
 1092,Human Flow,Documentary,527845,10,2017
 1093,The First Monday in May,Documentary,527474,4,2016
 1094,"Uchiage Hanabi, Shita Kara Miru ka? Y…",Drama,525280,7,2018
@@ -1174,10 +1174,10 @@
 1172,El Hombre que mato a Don Quijote,Drama,391963,4,2019
 1173,L'avenir,Drama,388265,12,2016
 1174,The Wedding Guest,Thriller/Suspense,386166,3,2019
-1175,Soorma,Drama,382104,7,2018
-1176,Tulsa,Comedy,380466,8,2020
-1177,Jane and Emma,Drama,380017,10,2018
-1178,The Call,Horror,378753,10,2020
+1175,The Call,Horror,383603,10,2020
+1176,Soorma,Drama,382104,7,2018
+1177,Tulsa,Comedy,380466,8,2020
+1178,Jane and Emma,Drama,380017,10,2018
 1179,The Cure: Anniversary 1978-2018 Live …,Concert/Performance,378405,7,2019
 1180,Tom of Finland,Drama,378296,10,2017
 1181,Rebel in the Rye,Drama,378294,9,2017
@@ -1205,23 +1205,23 @@
 1203,High-Rise,Thriller/Suspense,346472,4,2016
 1204,Photograph,Drama,344534,5,2019
 1205,Diane,Drama,339838,3,2019
-1206,Godâs Own Country,Drama,338027,10,2017
-1207,This Is Not What I Expected,Comedy,337670,5,2017
-1208,Letters from Baghdad,Documentary,336223,6,2017
-1209,Shine,Drama,333388,10,2018
-1210,"Kimi to, nami ni noretara",Comedy,332432,2,2020
-1211,Te3n,Thriller/Suspense,331507,6,2016
-1212,Les misÃ©rables,Drama,330181,1,2020
-1213,Flower,Drama,328188,3,2018
-1214,Kaashmora,Action,327929,10,2016
-1215,Yellow Rose,Drama,326047,10,2020
-1216,Ordinary Love,Drama,323688,2,2020
-1217,Sword of Trust,Drama,322598,7,2019
-1218,Chuck,Action,322005,5,2017
-1219,The Bounce Back,Romantic Comedy,321910,12,2016
-1220,Aus dem Nichts,Drama,321011,12,2017
-1221,Lucy in the Sky,Drama,319976,10,2019
-1222,Love and Monsters,Adventure,317527,10,2020
+1206,Love and Monsters,Adventure,338839,10,2020
+1207,Godâs Own Country,Drama,338027,10,2017
+1208,This Is Not What I Expected,Comedy,337670,5,2017
+1209,Letters from Baghdad,Documentary,336223,6,2017
+1210,Yellow Rose,Drama,333988,10,2020
+1211,Shine,Drama,333388,10,2018
+1212,"Kimi to, nami ni noretara",Comedy,332432,2,2020
+1213,Te3n,Thriller/Suspense,331507,6,2016
+1214,Les misÃ©rables,Drama,330181,1,2020
+1215,Flower,Drama,328188,3,2018
+1216,Kaashmora,Action,327929,10,2016
+1217,Ordinary Love,Drama,323688,2,2020
+1218,Sword of Trust,Drama,322598,7,2019
+1219,Chuck,Action,322005,5,2017
+1220,The Bounce Back,Romantic Comedy,321910,12,2016
+1221,Aus dem Nichts,Drama,321011,12,2017
+1222,Lucy in the Sky,Drama,319976,10,2019
 1223,Out of Liberty,Western,317217,9,2019
 1224,AmeriGeddon,Action,316554,5,2016
 1225,Josh Groban Bridges from Madison Squa…,Concert/Performance,315173,2,2019
@@ -1235,7 +1235,7 @@
 1233,K-12,Musical,303230,9,2019
 1234,Mia madre,Drama,303002,8,2016
 1235,Aquarela,Documentary,301429,8,2019
-1236,Save Yourselves!,Comedy,299508,10,2020
+1236,Save Yourselves!,Comedy,301162,10,2020
 1237,Christine,Drama,298525,10,2016
 1238,Ittefaq,Thriller/Suspense,298032,11,2017
 1239,Ask Dr. Ruth,Documentary,297195,5,2019
@@ -1348,45 +1348,45 @@
 1346,Spark: A Space Tail,Adventure,196458,4,2017
 1347,Family,Drama,196322,4,2019
 1348,Dylda,Drama,196258,1,2020
-1349,The Final Year,Documentary,191900,1,2018
-1350,One Piece Film: Gold,Action,190859,1,2017
-1351,Owarani hito Miyazaki: Hayao,Documentary,187320,12,2018
-1352,Complete Unknown,Drama,187145,8,2016
-1353,Xi You Ji Nu Er Guo,Action,187074,2,2018
-1354,The Doors: Break on Thru â A Celebr…,Documentary,186920,2,2020
-1355,Yao Ling Ling,Comedy,186135,1,2018
-1356,Estiu 1993,Drama,185903,5,2018
-1357,Madelineâs Madeline,Drama,185576,8,2018
-1358,To Dust,Drama,184495,2,2019
-1359,Toivon Tuolla Puolen,Comedy,184090,12,2017
-1360,Whose Streets?,Documentary,182799,8,2017
-1361,The Masked Saint,Action,182695,1,2016
-1362,Karwaan,Comedy,182009,8,2018
-1363,The Bad Batch,Horror,180851,6,2017
-1364,Marjorie Prime,Multiple Genres,180608,8,2017
-1365,Past Life,Thriller/Suspense,180099,6,2017
-1366,"Ni Hao, Zhi Hua",,179721,11,2018
-1367,BuyBust,Action,178471,8,2018
-1368,Ponokku tanpen gekijÃ´: Chiisa na eiy…,Adventure,178027,1,2019
-1369,Viva,Drama,178008,4,2016
-1370,The Warrior Queen of Jhansi,Drama,177437,11,2019
-1371,BÃ¸lgen,Action,177404,3,2016
-1372,Les Gardiennes,Drama,177331,5,2018
-1373,The Kid Detective,Black Comedy,177278,10,2020
+1349,The Kid Detective,Black Comedy,195014,10,2020
+1350,The Final Year,Documentary,191900,1,2018
+1351,One Piece Film: Gold,Action,190859,1,2017
+1352,Owarani hito Miyazaki: Hayao,Documentary,187320,12,2018
+1353,Complete Unknown,Drama,187145,8,2016
+1354,Xi You Ji Nu Er Guo,Action,187074,2,2018
+1355,The Doors: Break on Thru â A Celebr…,Documentary,186920,2,2020
+1356,Yao Ling Ling,Comedy,186135,1,2018
+1357,Estiu 1993,Drama,185903,5,2018
+1358,Madelineâs Madeline,Drama,185576,8,2018
+1359,To Dust,Drama,184495,2,2019
+1360,Toivon Tuolla Puolen,Comedy,184090,12,2017
+1361,Whose Streets?,Documentary,182799,8,2017
+1362,The Masked Saint,Action,182695,1,2016
+1363,Karwaan,Comedy,182009,8,2018
+1364,The Bad Batch,Horror,180851,6,2017
+1365,Marjorie Prime,Multiple Genres,180608,8,2017
+1366,Past Life,Thriller/Suspense,180099,6,2017
+1367,"Ni Hao, Zhi Hua",Other,179721,11,2018
+1368,BuyBust,Action,178471,8,2018
+1369,Ponokku tanpen gekijÃ´: Chiisa na eiy…,Adventure,178027,1,2019
+1370,Viva,Drama,178008,4,2016
+1371,The Warrior Queen of Jhansi,Drama,177437,11,2019
+1372,BÃ¸lgen,Action,177404,3,2016
+1373,Les Gardiennes,Drama,177331,5,2018
 1374,And Then We Danced,Drama,177262,2,2020
 1375,Indiaâs Most Wanted,Thriller/Suspense,176858,5,2019
 1376,"Iyengar: The Man, Yoga, The Studentâ…",Documentary,176387,4,2019
 1377,Take Every Wave: The Life of Laird Ha…,Documentary,176160,9,2017
 1378,Bacalaureat,Drama,175975,4,2017
 1379,Vuelven,Horror,175559,8,2019
-1380,Champion,Drama,175232,5,2017
-1381,Asura : The City of Madness,Action,174501,10,2016
-1382,Always at the Carlyle,Documentary,174251,5,2018
-1383,Mr. Gaga,Documentary,173994,2,2017
-1384,"Jheronimus Bosch, Touched by the Devil",Documentary,172533,7,2016
-1385,9/11,Drama,172000,9,2017
-1386,David Lynch: The Art Life,Documentary,171419,3,2017
-1387,The Wolf of Snow Hollow,Horror,170658,10,2020
+1380,The Wolf of Snow Hollow,Horror,175320,10,2020
+1381,Champion,Drama,175232,5,2017
+1382,Asura : The City of Madness,Action,174501,10,2016
+1383,Always at the Carlyle,Documentary,174251,5,2018
+1384,Mr. Gaga,Documentary,173994,2,2017
+1385,"Jheronimus Bosch, Touched by the Devil",Documentary,172533,7,2016
+1386,9/11,Drama,172000,9,2017
+1387,David Lynch: The Art Life,Documentary,171419,3,2017
 1388,Changgwol,Horror,167937,10,2018
 1389,Frankie,Drama,167169,10,2019
 1390,L'amant double,Drama,167093,2,2018
@@ -1452,7 +1452,7 @@
 1450,Wendy,Drama,143518,2,2020
 1451,Feng Shen Bang,Action,143430,7,2016
 1452,Incitement,Thriller/Suspense,140306,1,2020
-1453,Archive,,139593,7,2020
+1453,Archive,Other,139593,7,2020
 1454,Burden,Drama,139270,2,2020
 1455,Namhansanseong,Drama,138486,10,2017
 1456,Who Will Write Our History,Documentary,138039,1,2019
@@ -1677,7 +1677,7 @@
 1675,Norman Lear: Just Another Version of You,Documentary,70950,7,2016
 1676,Styx,Drama,70794,2,2019
 1677,How to Build a Girl,Comedy,70632,5,2020
-1678,Diamantino,,70088,5,2019
+1678,Diamantino,Other,70088,5,2019
 1679,Wastelander,Action,70045,1,2018
 1680,Turn it Around: The Story of East Bay…,Documentary,69787,5,2017
 1681,Parchi,Comedy,69431,1,2018
@@ -1796,17 +1796,17 @@
 1794,Fatima,Drama,50105,8,2016
 1795,Pele: Birth of a Legend,Drama,49979,5,2016
 1796,The Way I See it,Documentary,49030,9,2020
-1797,The Bounty Killer,Western,48815,1,2019
-1798,Mal de Pierres,Drama,48677,7,2017
-1799,The China Hustle,Documentary,48650,3,2018
-1800,Comoara,Comedy,48508,1,2016
-1801,Person to Person,Drama,48499,7,2017
-1802,Hirune-hime: Shiranai watashi no mono…,Drama,48198,9,2017
-1803,Window Horses,Adventure,48105,3,2017
-1804,Saving Banksy,Documentary,47965,1,2017
-1805,Quest,Documentary,47807,12,2017
-1806,Henchmen,Adventure,47797,10,2020
-1807,Pray: The Story of Patrick Peyton,Documentary,47339,10,2020
+1797,Pray: The Story of Patrick Peyton,Documentary,48829,10,2020
+1798,The Bounty Killer,Western,48815,1,2019
+1799,Mal de Pierres,Drama,48677,7,2017
+1800,The China Hustle,Documentary,48650,3,2018
+1801,Comoara,Comedy,48508,1,2016
+1802,Person to Person,Drama,48499,7,2017
+1803,Hirune-hime: Shiranai watashi no mono…,Drama,48198,9,2017
+1804,Window Horses,Adventure,48105,3,2017
+1805,Saving Banksy,Documentary,47965,1,2017
+1806,Quest,Documentary,47807,12,2017
+1807,Henchmen,Adventure,47797,10,2020
 1808,Ma Ma,Drama,47258,5,2016
 1809,VHYes,Comedy,47037,1,2020
 1810,Fei Long Guo Jiang,Action,46855,2,2020
@@ -2026,7 +2026,7 @@
 2024,Chevalier,Comedy,25696,5,2016
 2025,The Booksellers,Documentary,25694,3,2020
 2026,Kate Plays Christine,Documentary,25564,8,2016
-2027,Unsubscribe,,25488,6,2020
+2027,Unsubscribe,Other,25488,6,2020
 2028,Guo Nian Hao,Comedy,25358,2,2016
 2029,Disturbing the Peace,Documentary,25287,11,2016
 2030,Sold,Drama,25223,4,2016
@@ -2347,7 +2347,7 @@
 2345,La vÃ©ritÃ©,Drama,9619,7,2020
 2346,Strangers on the Earth,Documentary,9518,5,2018
 2347,Le rÃ¨gne de la beautÃ©,Drama,9395,4,2016
-2348,Fritz Langâs Indian Epic,,9345,9,2019
+2348,Fritz Langâs Indian Epic,Other,9345,9,2019
 2349,When Lambs Become Lions,Documentary,9337,11,2019
 2350,Chosen,Drama,9283,12,2016
 2351,The Aspern Papers,Drama,9277,1,2019
@@ -2388,7 +2388,7 @@
 2386,The Other Side,Documentary,8074,5,2016
 2387,Talent Has Hunger,Documentary,7998,3,2016
 2388,Portret van een tuin,Documentary,7914,10,2016
-2389,Ce magnifique gÃ¢teau!,,7888,3,2019
+2389,Ce magnifique gÃ¢teau!,Other,7888,3,2019
 2390,The Ballad of Lefty Brown,Western,7856,12,2017
 2391,Ghost Fleet,Documentary,7850,6,2019
 2392,Les Filles du Soleil,Drama,7801,4,2019
@@ -2435,19 +2435,19 @@
 2433,Spiral Farm,Drama,6517,12,2019
 2434,Afterward,Documentary,6477,1,2020
 2435,Lie Exposed,Drama,6475,3,2020
-2436,The Charnel House,Thriller/Suspense,6332,11,2016
-2437,L'Ã©cole buissonniÃ¨re,Comedy,6300,9,2018
-2438,Last Rampage,Thriller/Suspense,6294,9,2017
-2439,Under the Eiffel Tower,Romantic Comedy,6291,2,2019
-2440,Spiral,Documentary,6279,6,2018
-2441,Ghost Team,Comedy,6245,8,2016
-2442,Skjelvet,Thriller/Suspense,6235,12,2018
-2443,The Bad Kids,Documentary,6226,12,2016
-2444,The Fuzz,Thriller/Suspense,6176,7,2017
-2445,To Be of Service,Documentary,6173,11,2019
-2446,The Freedom to Marry,Documentary,6142,3,2017
-2447,Relaxer,Comedy,6133,3,2019
-2448,Twiceborn,Drama,6122,10,2020
+2436,Twiceborn,Drama,6425,10,2020
+2437,The Charnel House,Thriller/Suspense,6332,11,2016
+2438,L'Ã©cole buissonniÃ¨re,Comedy,6300,9,2018
+2439,Last Rampage,Thriller/Suspense,6294,9,2017
+2440,Under the Eiffel Tower,Romantic Comedy,6291,2,2019
+2441,Spiral,Documentary,6279,6,2018
+2442,Ghost Team,Comedy,6245,8,2016
+2443,Skjelvet,Thriller/Suspense,6235,12,2018
+2444,The Bad Kids,Documentary,6226,12,2016
+2445,The Fuzz,Thriller/Suspense,6176,7,2017
+2446,To Be of Service,Documentary,6173,11,2019
+2447,The Freedom to Marry,Documentary,6142,3,2017
+2448,Relaxer,Comedy,6133,3,2019
 2449,Arise from Darkness,Horror,6112,1,2017
 2450,Blood Widow,Thriller/Suspense,6047,1,2020
 2451,The Other Lamb,Drama,6024,4,2020
