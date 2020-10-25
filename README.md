@@ -19,7 +19,7 @@ With the analysis we should be able to give solid answers to questions such as:
 
 ## Approach
 * Web Scraping
-  * gathered the raw data from The Numbers.com
+  * gathered the raw data from [The Numbers.com](https://www.the-numbers.com/movies/report/All/All/All/All/All/All/All/All/All/None/None/2020/2020/1/1/None/None/None/None?show-release-date=On&show-domestic-box-office=On&show-international-box-office=On&show-worldwide-box-office=On&view-order-by=domestic-box-office&view-order-direction=desc)
   * collected data by top one-hundred per month for the last five years
 * Data-Cleaning
   * prepared the data for utilazation
@@ -33,8 +33,9 @@ Data Science Tools used:
     * Requests
     * pandas
     * matplotlib
+    
 Websites used:
-  * The numbers.com
+  * [The numbers.com](https://www.the-numbers.com/)
   
   ## Insights
 ![](Images/chartOne_total_revenues.PNG)
