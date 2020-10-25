@@ -1,6 +1,8 @@
 # Movie-Analysis_Microsoft
 
 ## Summary
+Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
+
 When venturing into new business territory, it is important to understand what options are most viable in order to make smart and efficient business decisions.   Reviewing the industry history can help lead us in the right direction.
 
 With the help of data science, we can create analysis to help understand what types of films do best at the box office.
@@ -35,6 +37,7 @@ Websites used:
   * The numbers.com
   
   ## Insights
+  
   ## Recommendations
   
   first draft...
