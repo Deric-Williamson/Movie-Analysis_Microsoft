@@ -37,6 +37,10 @@ Websites used:
   * The numbers.com
   
   ## Insights
+  ![](images/chartOne_total_revenues.PNG)
+  ![](images/chartTwo_avg_revenues.PNG)
+  ![](images/chartThree_monthly_Revenues.PNG)
+  
   
   ## Recommendations
   
