@@ -35,7 +35,7 @@ Data Science Tools used:
     * matplotlib
     
 Websites used:
-  * [The numbers.com](https://www.the-numbers.com/)
+  * [The Numbers.com](https://www.the-numbers.com/)
   
   ## Insights
 ![](Images/chartOne_total_revenues.PNG)
