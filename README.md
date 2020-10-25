@@ -37,14 +37,21 @@ Websites used:
   * The numbers.com
   
   ## Insights
-  ![](images/chartOne_total_revenues.PNG)
-  ![](images/chartTwo_avg_revenues.PNG)
-  ![](images/chartThree_monthly_Revenues.PNG)
+![](Images/chartOne_total_revenues.PNG)
+![](Images/chartTwo_avg_revenues.PNG)
+![](Images/chartThree_monthly_Revenues.PNG)
   
   
   ## Recommendations
   
-  first draft...
+*  After data analysis, we would recommend our company to produce an adventure movie.
+
+*  The best performing genre in terms of gross revenue and average gross revenue per title is Adventure.
+
+*  If you decide to release an adventure movie, our data shows that December is the highest gross revenue generating month.
+
+*  Lastly, adventure has one of the highest title counts produced in the industry.
+
 
 
 
