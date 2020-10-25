@@ -11,7 +11,7 @@ With the analysis we should be able to give solid answers to questions such as:
 * Which month is best for releasing movies?
   * Which genres bring in the most revenue during which time of year?
 * Which genres are not widely produced but make a lot of revenue?
-* Which genres release more titles into the box offices?
+* Which genres release more titles into the domestic box offices?
 
 ### Contributors
 * Crissy Bruce
@@ -19,13 +19,13 @@ With the analysis we should be able to give solid answers to questions such as:
 
 ## Approach
 * Web Scraping
-  * gathered the raw data from [The Numbers.com](https://www.the-numbers.com/movies/report/All/All/All/All/All/All/All/All/All/None/None/2020/2020/1/1/None/None/None/None?show-release-date=On&show-domestic-box-office=On&show-international-box-office=On&show-worldwide-box-office=On&view-order-by=domestic-box-office&view-order-direction=desc)
-  * collected data by top one-hundred per month for the last five years
+  * Gathered the raw data from [The Numbers.com](https://www.the-numbers.com/movies/report/All/All/All/All/All/All/All/All/All/None/None/2020/2020/1/1/None/None/None/None?show-release-date=On&show-domestic-box-office=On&show-international-box-office=On&show-worldwide-box-office=On&view-order-by=domestic-box-office&view-order-direction=desc)
+  * Collected data by top one-hundred per month for the last five years
 * Data-Cleaning
-  * prepared the data for utilazation
-  * expoted clean data in a .csv file
+  * Prepared the data for utilization
+  * Exported clean data in a .csv file
 * Querying
-  * presenting the data in a fashion that is easy to back up recommendations
+  * Presenting the data in a fashion that is easy to back up recommendations
   
 ### Applications Utilized
 Data Science Tools used:
@@ -47,7 +47,7 @@ Websites used:
   
 *  After data analysis, we would recommend our company to produce an adventure movie.
 
-*  The best performing genre in terms of gross revenue and average gross revenue per title is Adventure.
+*  The best performing genre in terms of gross revenue and average gross revenue per title is adventure.
 
 *  If you decide to release an adventure movie, our data shows that December is the highest gross revenue generating month.
 
