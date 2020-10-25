@@ -1,13 +1,17 @@
 # Movie-Analysis_Microsoft
 
 ## Summary
-An analysis to help understand what types of films do best at the box office.
-With the analysis we should be able to give solid recommendations such as:
-* What are some of the most successful genres.
-  * How well a specific genre has done in box office in regards to revenues.
-  * How often a certain type of genre is released.
-* When to release a title of specific genre
-* How well a genre fared in past years.
+Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry.
+
+When venturing into new business territory, it is important to understand what options are most viable in order to make smart and efficient business decisions.   Reviewing the industry history can help lead us in the right direction.
+
+With the help of data science, we can create analysis to help understand what types of films do best at the box office.
+With the analysis we should be able to give solid answers to questions such as:
+* Which genres gross the highest revenue amount?
+* Which month is best for releasing movies?
+  * Which genres bring in the most revenue during which time of year?
+* Which genres are not widely produced but make a lot of revenue?
+* Which genres release more titles into the box offices?
 
 ### Contributors
 * Crissy Bruce
@@ -33,6 +37,7 @@ Websites used:
   * The numbers.com
   
   ## Insights
+  
   ## Recommendations
   
   first draft...
